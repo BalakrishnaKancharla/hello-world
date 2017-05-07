@@ -1,2 +1,2 @@
 # hello-world
-hello world - another repository
+Hi , this file describes about hello-world repository
